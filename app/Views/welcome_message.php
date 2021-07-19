@@ -40,7 +40,6 @@
                                     <td><?php echo $user->email; ?></td>
                                     <td><?php echo $user->phone_no; ?></td>
                                     <td>
-                                        <button class="view_user btn" data-id="<?php echo $user->id; ?>" title="View"><i class="far fa-eye"></i></button>
                                         <button class="edit_user btn"  data-id="<?php echo $user->id; ?>" title="Edit"><i class="far fa-edit"></i></button>
                                         <button class="delete_user btn"  data-id="<?php echo $user->id; ?>" title="Delete"><i class="fas fa-trash"></i></button>
                                     </td>
