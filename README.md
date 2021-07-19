@@ -7,4 +7,4 @@ This application have the following functionalities
 3. Edit existing users forn the list.
 4. Delete a user.
 
-All of the above functionalities have been developed using ajax
+All of the above functionalities have been developed using Jquery and ajax
